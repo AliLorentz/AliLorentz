@@ -10,7 +10,7 @@ I have some works with **JavaScript** and **React.js**, contact me if you have s
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliLorentz&langs_count=8" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AliLorentz&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
 Here are some ideas to get you started:
