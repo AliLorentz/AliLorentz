@@ -1,6 +1,17 @@
-### Hi there 👋
+## 👋 Hi There
 
-**AliLorentz/AliLorentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi guys, I'm **Ali Colmenares**. I am a JavaScript developer from Venezuela.  
+I have some works with **JavaScript** and **React.js**, contact me if you have same interesting or some questions!
+
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiptronicek&langs_count=8" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
 
 Here are some ideas to get you started:
 
