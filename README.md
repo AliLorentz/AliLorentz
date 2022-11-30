@@ -1,7 +1,7 @@
 ## 👋 Hi There
 
 Hi guys, I'm **Ali Colmenares**. I am a JavaScript developer from Venezuela.  
-I have some works with **JavaScript** and **React.js**, contact me if you have same interesting or some questions!
+I have some works with **JavaScript**,**React.js**,**Node.js** and **Nest.js** contact me if you have same interesting or some questions!
 
 ## 👀 Quick overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
